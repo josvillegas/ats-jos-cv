@@ -1,0 +1,26 @@
+---
+import { projects } from "@cv";
+import Section from "../Section.astro";
+---
+
+<Section title="Proyectos">
+  <ul class="space-y-6">
+    {
+      projects.map(({ name, description }) => {
+        return (
+          <li>
+            <article class="">
+              <div>
+                <h3 class="text-black opacity-80 font-bold text-sm">{name}</h3>
+                <h2 class="text-black opacity-95 italic text-sm">
+                  {description}
+                </h2>
+              </div>
+            </article>
+          </li>
+        );
+      })
+    }
+  </ul>
+  <Section />
+</Section>

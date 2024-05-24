@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Jos Lee Villegas Pacheco",
+    "label": "Diseñador UI y Maquetar Web con más de 2 años de experiencia",
+    "image": "me.jpg",
+    "email": "josvillegas@gmail.com",
+    "phone": "+51 953 200 525",
+    "url": "https://josvillegas.dev",
+    "summary": "+2 años de experiencia como diseñador UI con proyectos propios y el dictado del curso a estudiantes de secundaria.",
+    "location": {
+      "address": "Av 5A lote J ",
+      "postalCode": "08820",
+      "city": "Lima",
+      "countryCode": "Pe",
+      "region": "Peru"
+    },
+    "profiles": {
+      "network": "LinkedIn",
+      "username": "josvillegas97",
+      "url": "https://linkedin.com/in/josvillegas97"
+    }
+  },
+  "work": [
+    {
+      "place": "Universidad Peruana Unión",
+      "name": "Sistema de Prácticas Pre Prosionales",
+      "position": "Desarrollador Web",
+      "url": "",
+      "startDate": "2018-03-01",
+      "endDate": "2019-03-01",
+      "summary": "Implementé el módulo de seguimiento para estudiantes en proceso de prácticas pre profesionales en el sistema PPP de la Universidad Peruana Unión ",
+      "highlights": ["Started the company"]
+    },
+    {
+      "place": "Sollertia",
+      "name": "Dictado de Taller UI",
+      "position": "Diseñador UI",
+      "url": "",
+      "startDate": "2020-03-12",
+      "endDate": "2023-12-20",
+      "summary": "Encargado de dictar el curso taller de UI Design en el colegio Sollertia, fomenté el Diseño de Sitios Web o aplicaciones móbiles como ayuda a las soluciones propuestas de cada alumno impulsando el uso de su creatividad",
+      "highlights": ["Started the company"]
+    },
+    {
+      "place": "Sollertia",
+      "name": "Dictado de Taller Desarrollo Web",
+      "position": "Maquetador Web",
+      "startDate": "2020-03-12",
+      "endDate": "2023-12-20",
+      "summary": "Encargado de dictar el curso taller de Desarrollo Web en el colegio Sollertia, fomenté la creación de Sitios Web previamente diseñados por cada estudiantes impulsando su lógica y creatividad mediante el uso de código HTML y CSS",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Peruana Unión",
+      "url": "",
+      "formation": "Bachiller",
+      "area": "Ingeniera de Sistemas",
+      "studyType": "Bachelor",
+      "startDate": "2015-08-15",
+      "endDate": "2020-09-20",
+      "score": "4.0",
+      "courses": ["Ingeniera de Sistemas"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Excelencia Académica",
+      "date": "2020-09-13",
+      "awarder": "Excelncia",
+      "summary": "Mejor estudiante en el semestre 2020-2 de la UPeU"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "UX UI Designer",
+      "date": "2021-11-07",
+      "issuer": "IDAT",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Figma",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "AdobeXD",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Git",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Office",
+      "keywords": ["Word", "Excel", "Power Point"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Intermedio"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Lectura",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Deporte",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Musica",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Viaje",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AcademiJVC",
+      "isActive": true,
+      "description": "Sitio web de la academia deportiva JVC",
+      "highlights": ["Astro & Tailwind", "Código"],
+      "url": ""
+    },
+    {
+      "name": "Sport UPeU",
+      "isActive": true,
+      "description": "App con la información de cada evento deportivo UPeU como: fixture, posiciones, etc",
+      "highlights": ["Flutter", "Código"],
+      "url": ""
+    },
+    {
+      "name": "Clinica UI",
+      "isActive": true,
+      "description": "Diseño de sitio Web para una clínica",
+      "highlights": ["Figma", "UI Design"],
+      "url": ""
+    },
+    {
+      "name": "Recetas Mecy",
+      "isActive": true,
+      "description": "App que muestra las recetas de cada comida hechas por mamá",
+      "highlights": ["Flutter", "Código"],
+      "url": "https://codi.link",
+      "github": ""
+    },
+    {
+      "name": "PPP UI",
+      "isActive": true,
+      "description": "Diseño del sistema web para Prácticas Pre Profesionales",
+      "highlights": ["Figma", "UI Design"],
+      "url": "https://pruebastecnicas.com",
+      "github": ""
+    }
+  ]
+}
