@@ -14,11 +14,33 @@
       "countryCode": "Pe",
       "region": "Peru"
     },
-    "profiles": {
+    "profile": {
       "network": "LinkedIn",
       "username": "josvillegas97",
       "url": "https://linkedin.com/in/josvillegas97"
-    }
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "josvillegas97",
+        "url": "https://linkedin.com/in/josvillegas97"
+      },
+      {
+        "network": "X",
+        "username": "josvillegas97",
+        "url": "https://linkedin.com/in/josvillegas97"
+      },
+      {
+        "network": "CV",
+        "username": "josvillegas97",
+        "url": "https://cv-jos.vercel.app/"
+      },
+      {
+        "network": "Porfolio",
+        "username": "josvillegas97",
+        "url": "https://linkedin.com/in/josvillegas97"
+      }
+    ]
   },
   "work": [
     {
