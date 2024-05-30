@@ -12,10 +12,13 @@ import Activities from "@/components/sections/Activities.astro";
 import KeyboardManager from "@/components/sections/KeyboardManager.astro";
 
 import { basics } from "@cv";
-const { name, label } = basics;
+const { name } = basics;
 ---
 
-<Layout title={`CV ATS - ${name} - ${label}`}>
+<Layout
+  title={`CV ATS - ${name}`}
+  description=`{CV en formato de ATS de ${name}}`
+>
   <SectionContainer>
     <Hero />
   </SectionContainer>
@@ -31,17 +34,16 @@ const { name, label } = basics;
     <Education />
   </SectionContainer>
   <Separation />
-  <SectionContainer>
+  <!--<SectionContainer>
     <Projects />
-  </SectionContainer>
-  <Separation />
+  </SectionContainer> 
+  <Separation /> -->
   <SectionContainer>
     <Skills />
   </SectionContainer>
-  <Separation />
+  <!--<Separation />
   <SectionContainer>
     <Activities />
-  </SectionContainer>
-
+  </SectionContainer> -->
   <KeyboardManager />
 </Layout>

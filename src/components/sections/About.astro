@@ -1,9 +1,12 @@
 ---
 import { basics } from "@cv";
+import Section from "../Section.astro";
 
 const { summary } = basics;
 ---
 
-<section class="flex flex-col py-2">
-  <p class="font-normal text-sm">{summary}</p>
-</section>
+<Section title="Perfil Profesional">
+  <section class="flex flex-col py-2">
+    <p class="font-normal text-sm">{summary}</p>
+  </section>
+</Section>
