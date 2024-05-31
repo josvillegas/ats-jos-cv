@@ -1,9 +1,9 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://raw.githubusercontent.com/josvillegas/before-push/main/resources/img/logo/logo.png">
+    <img width="15%" src="https://raw.githubusercontent.com/josvillegas/before-push/main/resources/img/logo/logo.png">
 </p>
 
 <div align="center">
-    <h1>CV Minimalista web y pdf</h1>
+    <h1>CV ATS</h1>
     <p>
     Esquema del JSON de CV de
     <a href="https://jsonresume.org/schema/">jsonresume.org</a>
