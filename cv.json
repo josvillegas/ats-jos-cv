@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jos Lee Villegas Pacheco",
-    "label": "Diseñador UI y Maquetar Web con más de 2 años de experiencia",
+    "label": "Diseñador UI y Web con más de 2 años de experiencia",
     "image": "me.jpg",
     "email": "josvillegas@gmail.com",
     "phone": "+51 953 200 525",
@@ -34,24 +34,14 @@
   },
   "work": [
     {
-      "place": "Universidad Peruana Unión",
-      "name": "Sistema de Prácticas Pre Profesionales",
-      "position": "Desarrollador Web",
-      "url": "",
-      "startDate": "2018-03-01",
-      "endDate": "2019-03-01",
-      "summary": "Implementé el módulo de seguimiento para estudiantes en proceso de prácticas pre profesionales en el sistema PPP de la Universidad Peruana Unión ",
-      "highlights": ["Started the company"]
-    },
-    {
       "place": "Sollertia",
       "name": "Dictado de Taller UI",
       "position": "Diseñador UI",
       "url": "",
       "startDate": "2021-03-12",
       "endDate": "2023-12-20",
-      "summary": "Encargado de dictar el curso taller de UI Design en el colegio Sollertia, fomenté el Diseño de Sitios Web o aplicaciones móbiles como ayuda a las soluciones propuestas de cada alumno impulsando el uso de su creatividad",
-      "highlights": ["Started the company"]
+      "summary": "Encargado de dictar el curso taller de UI Design en el colegio Sollertia, fomenté el Diseño de sitios web o aplicaciones móbiles como ayuda a las soluciones propuestas de cada alumno impulsando el uso de su creatividad",
+      "highlights": ["profesionales"]
     },
     {
       "place": "Sollertia",
@@ -59,19 +49,18 @@
       "position": "Maquetador Web",
       "startDate": "2021-03-12",
       "endDate": "2023-12-20",
-      "summary": "Encargado de dictar el curso taller de Desarrollo Web en el colegio Sollertia, fomenté la creación de Sitios Web previamente diseñados por cada estudiantes impulsando su lógica y creatividad mediante el uso de código HTML y CSS",
-      "highlights": ["Started the company"]
-    }
-  ],
-  "volunteer": [
+      "summary": "Encargado de dictar el curso taller de Desarrollo Web en el colegio Sollertia, fomenté la creación de sitios web previamente diseñados por cada estudiante, impulsando su lógica y creatividad mediante el uso de código HTML y CSS",
+      "highlights": ["profesionales"]
+    },
     {
-      "organization": "Organization",
-      "position": "Volunteer",
+      "place": "Universidad Peruana Unión",
+      "name": "Sistema de Prácticas Pre Profesionales",
+      "position": "Desarrollador Web",
       "url": "",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "startDate": "2018-03-01",
+      "endDate": "2019-03-01",
+      "summary": "Implementé el módulo de seguimiento para estudiantes en proceso de prácticas pre profesionales en el sistema PPP de la Universidad Peruana Unión ",
+      "highlights": ["practicas"]
     }
   ],
   "education": [
@@ -79,12 +68,12 @@
       "institution": "Universidad Peruana Unión",
       "url": "",
       "formation": "Bachiller",
-      "area": "Ingeniera de Sistemas",
+      "area": "Ingeniería de Sistemas",
       "studyType": "Bachelor",
       "startDate": "2015-08-15",
       "endDate": "2020-09-20",
       "score": "4.0",
-      "courses": ["Ingeniera de Sistemas"]
+      "courses": ["Ingeniería de Sistemas"]
     }
   ],
   "awards": [
@@ -177,25 +166,6 @@
       "name": "|"
     },
     {
-      "name": "Git",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-    },
-    {
-      "name": "|"
-    },
-    {
-      "name": "GitHub",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "|"
-    },
-    {
       "name": "Office",
       "keywords": ["Word", "Excel", "Power Point"]
     }
@@ -212,24 +182,6 @@
     {
       "language": "Inglés",
       "fluency": "Intermedio"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Lectura",
-      "keywords": ["Ferrets", "Unicorns"]
-    },
-    {
-      "name": "Deporte",
-      "keywords": ["Ferrets", "Unicorns"]
-    },
-    {
-      "name": "Música",
-      "keywords": ["Ferrets", "Unicorns"]
-    },
-    {
-      "name": "Viajes",
-      "keywords": ["Ferrets", "Unicorns"]
     }
   ],
   "softskills": [
@@ -263,45 +215,6 @@
     {
       "name": "",
       "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "AcademiaJVC",
-      "isActive": true,
-      "description": "Sitio web de la academia deportiva JVC",
-      "highlights": ["Astro & Tailwind", "Código"],
-      "url": ""
-    },
-    {
-      "name": "Sport UPeU",
-      "isActive": true,
-      "description": "App con la información de cada evento deportivo UPeU como: fixture, posiciones, etc",
-      "highlights": ["Flutter", "Código"],
-      "url": ""
-    },
-    {
-      "name": "Clinica UI",
-      "isActive": true,
-      "description": "Diseño de sitio Web para una clínica",
-      "highlights": ["Figma", "UI Design"],
-      "url": ""
-    },
-    {
-      "name": "Recetas Mecy",
-      "isActive": true,
-      "description": "App que muestra las recetas de cada comida hechas por...",
-      "highlights": ["Flutter", "Código"],
-      "url": "",
-      "github": ""
-    },
-    {
-      "name": "PPP UI",
-      "isActive": true,
-      "description": "Diseño del sistema web para Prácticas Pre Profesionales",
-      "highlights": ["Figma", "UI Design"],
-      "url": "",
-      "github": ""
     }
   ]
 }
