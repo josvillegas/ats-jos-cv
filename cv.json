@@ -216,5 +216,44 @@
       "name": "",
       "reference": ""
     }
+  ],
+  "projects": [
+    {
+      "name": "AcademiaJVC",
+      "isActive": true,
+      "description": "Sitio web de la academia deportiva JVC",
+      "highlights": ["Astro & Tailwind", "Código"],
+      "url": ""
+    },
+    {
+      "name": "Sport UPeU",
+      "isActive": true,
+      "description": "App con la información de cada evento deportivo UPeU como: fixture, posiciones, etc",
+      "highlights": ["Flutter", "Código"],
+      "url": ""
+    },
+    {
+      "name": "Clinica UI",
+      "isActive": true,
+      "description": "Diseño de sitio Web para una clínica",
+      "highlights": ["Figma", "UI Design"],
+      "url": ""
+    },
+    {
+      "name": "Recetas Mecy",
+      "isActive": true,
+      "description": "App que muestra las recetas de cada comida hechas por...",
+      "highlights": ["Flutter", "Código"],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "PPP UI",
+      "isActive": true,
+      "description": "Diseño del sistema web para Prácticas Pre Profesionales",
+      "highlights": ["Figma", "UI Design"],
+      "url": "",
+      "github": ""
+    }
   ]
 }
