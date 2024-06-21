@@ -4,7 +4,7 @@ import Section from "../Section.astro";
 ---
 
 <Section title="Educación">
-  <ul class="space-y-6">
+  <ul class="pb-0">
     {
       education.map(({ institution, startDate, endDate, formation, area }) => {
         const startYear = new Date(startDate).getFullYear();

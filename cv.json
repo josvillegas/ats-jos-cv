@@ -43,8 +43,8 @@
       "summary": "Encargado de dictar el curso taller de UI Design en el colegio Sollertia, fomenté el Diseño de sitios web o aplicaciones móbiles como ayuda a las soluciones propuestas de cada alumno impulsando el uso de su creatividad",
       "highlights": [
         "Enseñar los principios básicos de diseño UI",
-        "Reconocer secciones principales en el diseño",
-        "Crear diseños en modo responsivo",
+        "Crear vocetos que serviran de ayuda para los futuros diseños",
+        "Crear diseños amigables y vistosis en Figma y/o Adobe XD",
         "Verificar que los diseños cumplan las necesidades solicitadas"
       ]
     },
@@ -57,7 +57,7 @@
       "summary": "Encargado de dictar el curso taller de Desarrollo Web en el colegio Sollertia, fomenté la creación de sitios web previamente diseñados por cada estudiante, impulsando su lógica y creatividad mediante el uso de código HTML y CSS",
       "highlights": [
         "Enseñar los principios básicos de diseño Web",
-        "Reconocer secciones principales en el diseño Web",
+        "Conocer como los diseños UI sirven de base para los futuros diseños realizados con código web",
         "Crea diseños web con el lenguaje de etiquetas HTML",
         "Añade estilos con el lenguaje de estilos CSS a los diseños ya realizadas anteriormente"
       ]
@@ -71,10 +71,10 @@
       "endDate": "2019-03-01",
       "summary": "Implementé el módulo de seguimiento para estudiantes en proceso de prácticas pre profesionales en el sistema PPP de la Universidad Peruana Unión ",
       "highlights": [
-        "Preparar el análisis para el requerimiento seguimiento de práscticas",
-        "Preparar el análisis para el requerimiento fin de practicas",
-        "Desarrollar requerimiento seguimiento de practicantes",
-        "Desarrollar requerimiento fin de practicas"
+        "Preparar el análisis para el requerimiento seguimiento de prácticas, autoevaluación y fin de prácticas",
+        "Desarrollar el requerimiento seguimiento de practicantes",
+        "Desarrollar el requerimiento autoevaluación practicante",
+        "Desarrollar el requerimiento fin de practicas"
       ]
     }
   ],
