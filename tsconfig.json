@@ -4,7 +4,8 @@
     "baseUrl": ".",
     "paths": {
       "@cv": ["./cv.json"],
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "@encv": ["./cv_en.json"]
     }
   }
 }

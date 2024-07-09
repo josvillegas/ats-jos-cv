@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Jos Lee Villegas Pacheco",
+    "name": "Jos Lee Josue Villegas Pacheco",
     "label": "Diseñador UI y Web con más de 2 años de experiencia",
     "image": "me.jpg",
-    "email": "josvillegas@gmail.com",
+    "email": "josvillegas97@gmail.com",
     "phone": "+51 953 200 525",
-    "url": "https://josvillegas.dev",
-    "summary": "+2 años de experiencia como diseñador UI con proyectos propios y el dictado del curso a estudiantes de secundaria.",
+    "url": "https://josvillegas-portfolio.vercel.app/",
+    "summary": "UI and Web designer with more than two years of experience in the field through teaching workshops to high school students and creating personal projects for both web and mobile devices.",
     "location": {
       "address": "Av 5A lote J ",
       "postalCode": "08820",
       "city": "Lima",
       "countryCode": "Pe",
-      "region": "Perú"
+      "region": "Peru"
     },
     "profile": {
       "network": "LinkedIn",
@@ -28,47 +28,62 @@
       {
         "network": "CV",
         "username": "josvillegas97",
-        "url": "https://cv-jos.vercel.app/"
+        "url": "https://josvillegas-portfolio.vercel.app/"
       }
     ]
   },
   "work": [
     {
       "place": "Sollertia",
-      "name": "Dictado de Taller UI",
-      "position": "Diseñador UI",
+      "name": "Dictado de Taller UI Desing",
+      "position": "UI Designer",
       "url": "",
       "startDate": "2021-03-12",
       "endDate": "2023-12-20",
-      "summary": "Encargado de dictar el curso taller de UI Design en el colegio Sollertia, fomenté el Diseño de sitios web o aplicaciones móbiles como ayuda a las soluciones propuestas de cada alumno impulsando el uso de su creatividad",
-      "highlights": ["profesionales"]
+      "summary": "In charge of teaching the UI Design workshop course at the Sollertia school, I promoted the Design of websites or mobile applications as an aid to the proposed solutions of each student, promoting the use of their creativity",
+      "highlights": [
+        "Teach basic UI design principles",
+        "Create sketches that will help with future designs",
+        "Create friendly and attractive designs in Figma and/or Adobe XD",
+        "Verify that the design meets the requested needs"
+      ]
     },
     {
       "place": "Sollertia",
       "name": "Dictado de Taller Desarrollo Web",
-      "position": "Maquetador Web",
+      "position": "Web Designer",
       "startDate": "2021-03-12",
       "endDate": "2023-12-20",
-      "summary": "Encargado de dictar el curso taller de Desarrollo Web en el colegio Sollertia, fomenté la creación de sitios web previamente diseñados por cada estudiante, impulsando su lógica y creatividad mediante el uso de código HTML y CSS",
-      "highlights": ["profesionales"]
+      "summary": "In charge of teaching the Web Development workshop course at the Sollertia school, I encouraged the creation of websites previously designed by each student, promoting their logic and creativity through the use of HTML tag code and CSS styling language",
+      "highlights": [
+        "Teach basic Web design principles",
+        "Know how UI designs serve as a basis for future designs made with web code",
+        "Create web designs with HTML",
+        "Add styles with CSS to previously made designs"
+      ]
     },
     {
       "place": "Universidad Peruana Unión",
       "name": "Sistema de Prácticas Pre Profesionales",
-      "position": "Desarrollador Web",
+      "position": "Web Developer",
       "url": "",
       "startDate": "2018-03-01",
       "endDate": "2019-03-01",
-      "summary": "Implementé el módulo de seguimiento para estudiantes en proceso de prácticas pre profesionales en el sistema PPP de la Universidad Peruana Unión ",
-      "highlights": ["practicas"]
+      "summary": "I implemented the monitoring module for students in the process of pre-professional internships in the PPP system of the Universidad Peruana Unión",
+      "highlights": [
+        "Prepare the analysis of the module, follow-ups of students in the internship process",
+        "Develop the monitoring requirement for students in the internship process",
+        "Develop the monitoring requirement for students in internship exam",
+        "Develop the monitoring requirement for students in internship final"
+      ]
     }
   ],
   "education": [
     {
       "institution": "Universidad Peruana Unión",
       "url": "",
-      "formation": "Bachiller",
-      "area": "Ingeniería de Sistemas",
+      "formation": "Bachelor",
+      "area": "Systems Engineering",
       "studyType": "Bachelor",
       "startDate": "2015-08-15",
       "endDate": "2020-09-20",
@@ -103,13 +118,13 @@
   ],
   "skills": [
     {
-      "name": "Diseño detallado"
+      "name": "Detailed Design"
     },
     {
       "name": "|"
     },
     {
-      "name": "Creatividad Visual"
+      "name": "Visual Creativity"
     }
   ],
   "softwares": [
@@ -172,42 +187,42 @@
   ],
   "languages": [
     {
-      "language": "Español",
-      "fluency": "Nativo"
+      "language": "Spanish",
+      "fluency": "Native"
     },
     {
       "name": "|",
       "fluency": "|"
     },
     {
-      "language": "Inglés",
-      "fluency": "Intermedio"
+      "language": "English",
+      "fluency": "Basic"
     }
   ],
   "softskills": [
     {
-      "name": "Pensamiento Analítico",
+      "name": "Analytical Thinking",
       "keywords": ["Ferrets", "Unicorns"]
     },
     {
       "name": "|"
     },
     {
-      "name": "Gestion del tiempo",
+      "name": "Time management",
       "keywords": ["Ferrets", "Unicorns"]
     },
     {
       "name": "|"
     },
     {
-      "name": "Organización",
+      "name": "Organization",
       "keywords": ["Ferrets", "Unicorns"]
     },
     {
       "name": "|"
     },
     {
-      "name": "Atención al detalle",
+      "name": "Attention to detail",
       "keywords": ["Ferrets", "Unicorns"]
     }
   ],
