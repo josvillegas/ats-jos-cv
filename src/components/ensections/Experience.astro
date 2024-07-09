@@ -1,0 +1,49 @@
+---
+import { work } from "@encv";
+import Section from "../Section.astro";
+---
+
+<Section title="Experience">
+  <ul class="space-y-6">
+    {
+      work.map(
+        ({ place, startDate, endDate, position, summary, highlights }) => {
+          const startYear = new Date(startDate).getFullYear();
+          const endYear =
+            endDate != null ? new Date(endDate).getFullYear() : "Actual";
+
+          return (
+            <li>
+              <article class="flex items-start justify-between">
+                <div>
+                  <h3 class="text-black opacity-80 font-bold text-sm">
+                    {position}
+                  </h3>
+                  <h2 class="text-black opacity-95 italic text-sm">{place}</h2>
+                </div>
+                <div class="text-black opacity-80 font-bold text-sm">
+                  <time datetime={startDate} data-title={startDate}>
+                    {startYear}
+                  </time>
+                  {" - "}
+                  <time datetime={endDate} data-title={endDate}>
+                    {endYear}
+                  </time>
+                </div>
+              </article>
+              <footer>
+                <p class="text-black font-normal text-sm">{summary}</p>
+                <ul class="list-disc px-8 mt-1">
+                  {highlights.map((highlight) => {
+                    return <li class="text-sm">{highlight}</li>;
+                  })}
+                </ul>
+              </footer>
+            </li>
+          );
+        }
+      )
+    }
+  </ul>
+  <Section />
+</Section>

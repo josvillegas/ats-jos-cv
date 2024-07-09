@@ -1,0 +1,72 @@
+---
+import { softwares, languages, softskills, skills } from "@encv";
+import Section from "../Section.astro";
+---
+
+<Section title="Skill">
+  <div class="flex items-center gap-1.5 flex-wrap">
+    <h2 class="text-black opacity-80 font-bold">Skills:</h2>
+    {
+      skills.map(({ name }) => {
+        return (
+          <ul>
+            <li>
+              <h3 class="text-black opacity-95 font-semibold text-xs">
+                {name}
+              </h3>
+            </li>
+          </ul>
+        );
+      })
+    }
+  </div>
+  <div class="flex items-center gap-1.5 flex-wrap">
+    <h2 class="text-black opacity-80 font-bold">Soft Skills:</h2>
+    {
+      softskills.map(({ name }) => {
+        return (
+          <ul>
+            <li>
+              <h3 class="text-black opacity-95 font-semibold text-xs">
+                {name}
+              </h3>
+            </li>
+          </ul>
+        );
+      })
+    }
+  </div>
+  <div class="flex items-center gap-1.5 flex-wrap">
+    <h2 class="text-black opacity-80 font-bold">Software:</h2>
+    {
+      softwares.map(({ name }) => {
+        return (
+          <ul>
+            <li>
+              <h3 class="text-black opacity-95 font-semibold text-xs">
+                {name}
+              </h3>
+            </li>
+          </ul>
+        );
+      })
+    }
+  </div>
+  <div class="flex items-center gap-1.5 flex-wrap">
+    <h2 class="text-black opacity-80 font-bold">Languages:</h2>
+    {
+      languages.map(({ language, fluency }) => {
+        return (
+          <ul>
+            <li>
+              <h3 class="text-black opacity-95 font-semibold text-xs">
+                {fluency} {language}
+              </h3>
+            </li>
+          </ul>
+        );
+      })
+    }
+  </div>
+  <Section />
+</Section>

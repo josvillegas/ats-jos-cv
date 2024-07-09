@@ -1,0 +1,36 @@
+---
+import { education } from "@encv";
+import Section from "../Section.astro";
+---
+
+<Section title="Education">
+  <ul class="pb-0">
+    {
+      education.map(({ institution, startDate, endDate, formation, area }) => {
+        const startYear = new Date(startDate).getFullYear();
+        const endYear =
+          endDate != null ? new Date(endDate).getFullYear() : "Actual";
+        const years = `${startYear} - ${endYear}`;
+
+        return (
+          <li>
+            <article class="flex items-start justify-between">
+              <div>
+                <h3 class="text-black opacity-80 font-bold text-sm">
+                  {institution}
+                </h3>
+                <h2 class="text-black opacity-95 italic text-sm">
+                  {formation} in {area}
+                </h2>
+              </div>
+              <div class="text-black opacity-80 font-bold text-sm">
+                <time>{years}</time>
+              </div>
+            </article>
+          </li>
+        );
+      })
+    }
+  </ul>
+  <Section />
+</Section>

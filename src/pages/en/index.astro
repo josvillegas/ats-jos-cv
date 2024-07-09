@@ -1,0 +1,44 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SectionContainer from "@/components/SectionContainer.astro";
+import Hero from "@/components/ensections/Hero.astro";
+import About from "@/components/ensections/About.astro";
+import Separation from "@/components/Separation.astro";
+import Experience from "@/components/ensections/Experience.astro";
+import Education from "@/components/ensections/Education.astro";
+import Projects from "@/components/ensections/Projects.astro";
+import Skills from "@/components/ensections/Skills.astro";
+import KeyboardManager from "@/components/ensections/KeyboardManager.astro";
+
+import { basics } from "@encv";
+const { name } = basics;
+---
+
+<Layout
+  title={`CV ATS - ${name}`}
+  description=`{CV en formato de ATS de ${name}}`
+>
+  <SectionContainer>
+    <Hero />
+  </SectionContainer>
+  <SectionContainer>
+    <About />
+  </SectionContainer>
+  <Separation />
+  <SectionContainer>
+    <Experience />
+  </SectionContainer>
+  <Separation />
+  <SectionContainer>
+    <Education />
+  </SectionContainer>
+  <Separation />
+  <!--<SectionContainer>
+    <Projects />
+  </SectionContainer> 
+  <Separation /> -->
+  <SectionContainer>
+    <Skills />
+  </SectionContainer>
+  <KeyboardManager />
+</Layout>

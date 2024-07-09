@@ -1,0 +1,17 @@
+---
+import { basics } from "@encv";
+
+const { name, location, profile, phone, email } = basics;
+const { city, region } = location;
+const { username, url } = profile;
+---
+
+<section class="flex flex-col items-center space-y-0 py-2">
+  <h1 class="text-xl font-bold">{name}</h1>
+  <h2 class="text-xs font-semibold text-black">
+    {city},{region} - <span>{phone}</span>
+  </h2>
+  <h2 class="text-xs font-semibold text-black opacity-95">
+    {email} - <a href=`${url}` target="_blank">linkedin/in/{username}</a>
+  </h2>
+</section>

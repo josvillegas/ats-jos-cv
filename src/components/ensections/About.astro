@@ -1,0 +1,12 @@
+---
+import { basics } from "@encv";
+import Section from "../Section.astro";
+
+const { summary } = basics;
+---
+
+<Section title="Professional Profile">
+  <section class="flex flex-col pb-1">
+    <p class="font-normal text-sm">{summary}</p>
+  </section>
+</Section>
