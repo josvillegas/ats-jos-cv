@@ -5,7 +5,7 @@
     "image": "me.jpg",
     "email": "josvillegas97@gmail.com",
     "phone": "+51 953 200 525",
-    "url": "https://josvillegas-portfolio.vercel.app/",
+    "porfolio": "https://josvillegas-portfolio.vercel.app/",
     "summary": "UI and Web designer with more than two years of experience in the field through teaching workshops to high school students and creating personal projects for both web and mobile devices.",
     "location": {
       "address": "Av 5A lote J ",
@@ -44,7 +44,7 @@
       "highlights": [
         "Teach basic UI design principles",
         "Create sketches that will help with future designs",
-        "Create friendly and attractive designs in Figma and/or Adobe XD",
+        "Design websites and mobile applications in Figma and/or Adobe xd",
         "Verify that the design meets the requested needs"
       ]
     },
@@ -73,7 +73,7 @@
       "highlights": [
         "Prepare the analysis of the module, follow-ups of students in the internship process",
         "Develop the monitoring requirement for students in the internship process",
-        "Develop the monitoring requirement for students in internship exam",
+        "Implement the monitoring requirement for students in internship exam",
         "Develop the monitoring requirement for students in internship final"
       ]
     }
@@ -125,6 +125,12 @@
     },
     {
       "name": "Visual Creativity"
+    },
+    {
+      "name": "|"
+    },
+    {
+      "name": "System Design"
     }
   ],
   "softwares": [
